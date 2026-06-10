@@ -1,0 +1,16 @@
+David Kumar
+DevOps / Platform Engineer
+david.kumar@example.com | +1-512-555-0181 | Austin, TX
+
+SUMMARY
+Platform engineer with 10 years in infra reliability. Reduced infra spend by 38% at scale via spot-instance and rightsizing.
+
+SKILLS
+Kubernetes, Terraform, AWS, GCP, Argo, Prometheus, Grafana, Python, Bash, Helm
+
+EXPERIENCE
+Netflix — Senior SRE (2020-Present): Owns observability platform.
+HashiCorp — Engineer (2016-2020): Consul Connect mesh plane.
+
+EDUCATION
+B.E. Information Tech, IIT Bombay (2014)

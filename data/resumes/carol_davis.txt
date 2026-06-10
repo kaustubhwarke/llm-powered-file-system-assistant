@@ -1,0 +1,16 @@
+Carol Davis
+Frontend Engineer
+carol.davis@example.com | +1-212-555-0157 | New York, NY
+
+SUMMARY
+Frontend engineer with deep React and TypeScript expertise. Built design systems used by 200+ engineers.
+
+SKILLS
+TypeScript, React, Next.js, Redux, Tailwind, Storybook, Cypress, Webpack, GraphQL
+
+EXPERIENCE
+Spotify — Senior Frontend Engineer (2022-Present): Owns artist-tools web platform.
+Vercel — Frontend Engineer (2019-2022): Built dashboard analytics module.
+
+EDUCATION
+B.A. Computer Science, NYU (2019)
